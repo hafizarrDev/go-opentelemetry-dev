@@ -19,11 +19,11 @@ Why we need `v2`?
 ## Installation v2
 
 ```bash
-go get github.com/erajayatech/go-opentelemetry/v2
+go get github.com/hafizarrDev/go-opentelemetry-dev/v2
 ```
 
 ```go
-import gootel "github.com/erajayatech/go-opentelemetry/v2"
+import gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 ```
 
 ## Checklist implement v2
@@ -33,7 +33,7 @@ Here is checklist for you to check wheter you already implement this `v2` fully.
 1. Your import is using `v2` and ranme.
 
 ```go
-import gootel "github.com/erajayatech/go-opentelemetry/v2"
+import gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 ```
 
 2. You create new trace provider and shutdown it properly. See [example](./example/server/main.go).

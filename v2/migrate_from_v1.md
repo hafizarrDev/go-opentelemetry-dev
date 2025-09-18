@@ -15,19 +15,19 @@ You can see how compatible `v2` with `v1` is in full example, [example_compatibl
 For you who already use v1, you need to search and replace your import, from
 
 ```bash
-"github.com/erajayatech/go-opentelemetry"
+"github.com/hafizarrDev/go-opentelemetry-dev"
 ```
 
 to
 
 ```bash
-"github.com/erajayatech/go-opentelemetry/v2"
+"github.com/hafizarrDev/go-opentelemetry-dev/v2"
 ```
 
 then
 
 ```bash
-go get github.com/erajayatech/go-opentelemetry/v2
+go get github.com/hafizarrDev/go-opentelemetry-dev/v2
 ```
 
 then

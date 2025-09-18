@@ -2,7 +2,7 @@ syntax = "proto3";
 
 package pbfoo;
 
-option go_package = "github.com/erajayatech/go-opentelemetry/v2/example_compatible_v1/pbfoo";
+option go_package = "github.com/hafizarrDev/go-opentelemetry-dev/v2/example_compatible_v1/pbfoo";
 
 service Example {
     rpc Foo(ReqFoo) returns (ResFoo) {}

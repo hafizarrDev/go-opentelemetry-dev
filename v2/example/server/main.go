@@ -6,7 +6,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 	"github.com/joho/godotenv"
 )
 

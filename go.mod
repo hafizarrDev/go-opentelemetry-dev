@@ -1,4 +1,4 @@
-module github.com/erajayatech/go-opentelemetry
+module github.com/hafizarrDev/go-opentelemetry-dev
 
 go 1.18
 

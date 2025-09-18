@@ -3,8 +3,8 @@ package main
 import (
 	"net/http"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
 	"github.com/gin-gonic/gin"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 )
 
 func controllerGinFoo(c *gin.Context) {

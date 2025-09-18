@@ -37,11 +37,11 @@
 <a name="v1.0.0"></a>
 ## v1.0.0 - 2022-10-10
 
-[Unreleased]: https://github.com/erajayatech/go-opentelemetry/compare/v2.0.0...HEAD
-[v2.0.0]: https://github.com/erajayatech/go-opentelemetry/compare/v1.2.0...v2.0.0
-[v1.2.0]: https://github.com/erajayatech/go-opentelemetry/compare/v1.1.0...v1.2.0
-[v1.1.0]: https://github.com/erajayatech/go-opentelemetry/compare/v1.2...v1.1.0
-[v1.2]: https://github.com/erajayatech/go-opentelemetry/compare/v1.0.3...v1.2
-[v1.0.3]: https://github.com/erajayatech/go-opentelemetry/compare/v1.0.2...v1.0.3
-[v1.0.2]: https://github.com/erajayatech/go-opentelemetry/compare/v1.0.1...v1.0.2
-[v1.0.1]: https://github.com/erajayatech/go-opentelemetry/compare/v1.0.0...v1.0.1
+[Unreleased]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v2.0.0...HEAD
+[v2.0.0]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.2.0...v2.0.0
+[v1.2.0]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.1.0...v1.2.0
+[v1.1.0]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.2...v1.1.0
+[v1.2]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.0.3...v1.2
+[v1.0.3]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.0.2...v1.0.3
+[v1.0.2]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.0.1...v1.0.2
+[v1.0.1]: https://github.com/hafizarrDev/go-opentelemetry-dev/compare/v1.0.0...v1.0.1

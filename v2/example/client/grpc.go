@@ -4,8 +4,8 @@ import (
 	"context"
 	"log/slog"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
-	"github.com/erajayatech/go-opentelemetry/v2/example/pbfoo"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
+	"github.com/hafizarrDev/go-opentelemetry-dev/v2/example/pbfoo"
 	"go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/credentials/insecure"

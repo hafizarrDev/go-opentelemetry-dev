@@ -7,7 +7,7 @@ import (
 	"log/slog"
 	"net/http"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 	"go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp"
 )
 

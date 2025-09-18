@@ -4,7 +4,7 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/erajayatech/go-opentelemetry/v2/internal/config"
+	"github.com/hafizarrDev/go-opentelemetry-dev/v2/internal/config"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc"

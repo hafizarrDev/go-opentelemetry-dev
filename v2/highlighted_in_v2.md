@@ -15,13 +15,13 @@ Go OpenTelemetry Helper.
 3. We recommend to import the library like this
 
 ```go
-gootel "github.com/erajayatech/go-opentelemetry/v2"
+gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 ```
 
 instead of
 
 ```go
-otel "github.com/erajayatech/go-opentelemetry/v2"
+otel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 ```
 
 because one day you will see yourself need to import

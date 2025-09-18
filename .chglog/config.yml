@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/erajayatech/go-opentelemetry
+  repository_url: https://github.com/hafizarrDev/go-opentelemetry-dev
 options:
   commits:
     filters:

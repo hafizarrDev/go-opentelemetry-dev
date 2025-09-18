@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
-	"github.com/erajayatech/go-opentelemetry/v2/example/pbfoo"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
+	"github.com/hafizarrDev/go-opentelemetry-dev/v2/example/pbfoo"
 )
 
 type GRPCExampleServer struct {

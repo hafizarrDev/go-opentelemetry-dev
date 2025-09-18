@@ -53,7 +53,7 @@ import (
 	"context"
 	"log"
 	
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 )
 
 func main() {

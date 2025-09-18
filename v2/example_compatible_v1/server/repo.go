@@ -3,7 +3,7 @@ package main
 import (
 	"context"
 
-	gootel "github.com/erajayatech/go-opentelemetry/v2"
+	gootel "github.com/hafizarrDev/go-opentelemetry-dev/v2"
 )
 
 func repoGetFoo(ctx context.Context) {

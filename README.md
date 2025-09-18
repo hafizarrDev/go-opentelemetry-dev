@@ -18,7 +18,7 @@ configure an exporter.
 ## Install
 Go Version 1.16+
 ```
-go get github.com/erajayatech/go-opentelemetry
+go get github.com/hafizarrDev/go-opentelemetry-dev
 ```
 
 ## Setup Environment
@@ -38,7 +38,7 @@ go get github.com/erajayatech/go-opentelemetry
 ## How To Use
 - Import package on main.go
 ```go
-otel "github.com/erajayatech/go-opentelemetry"
+otel "github.com/hafizarrDev/go-opentelemetry-dev"
 ```
 
 - Add below code to `main.go`
@@ -53,7 +53,7 @@ if otelTracerServiceErr != nil {
 - Tracing `Controller`
     * Import package
     ```go
-    otel "github.com/erajayatech/go-opentelemetry"
+    otel "github.com/hafizarrDev/go-opentelemetry-dev"
     ```
     * Start Span Tracer
     ```go
@@ -77,7 +77,7 @@ if otelTracerServiceErr != nil {
 - Tracing `Service`
     * Import package
     ```go
-    otel "github.com/erajayatech/go-opentelemetry"
+    otel "github.com/hafizarrDev/go-opentelemetry-dev"
     ```
     * Add context argument to function that we want to trace, example :
     ```go
@@ -131,7 +131,7 @@ if otelTracerServiceErr != nil {
   - Add code below on `repository`
     * Import package
     ```go
-    otel "github.com/erajayatech/go-opentelemetry"
+    otel "github.com/hafizarrDev/go-opentelemetry-dev"
     ```
     * Add context argument to function that we want to trace, example :
     ```go
@@ -150,7 +150,7 @@ if otelTracerServiceErr != nil {
 - Tracing `External Service`
     * Import package
     ```go
-    otel "github.com/erajayatech/go-opentelemetry"
+    otel "github.com/hafizarrDev/go-opentelemetry-dev"
     ```
     * Add context argument to function that we want to trace, example :
     ```go

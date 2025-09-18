@@ -3,8 +3,8 @@ package gootel
 import (
 	"context"
 
-	"github.com/erajayatech/go-opentelemetry/v2/internal/caller"
 	"github.com/gin-gonic/gin"
+	"github.com/hafizarrDev/go-opentelemetry-dev/v2/internal/caller"
 	"go.opentelemetry.io/otel"
 	"go.opentelemetry.io/otel/attribute"
 	"go.opentelemetry.io/otel/codes"
